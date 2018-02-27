@@ -30,5 +30,5 @@
 
 void explodesInTestEnvironment(void * p)
 {
-  assert(p == (void*)"Explode - intercepted call that cannot be made in test environment");
+  assert(p == (void*)"Explode - intercepted call that cannot be made in test environment"); /* yq (void*) added */
 }
