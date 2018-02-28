@@ -6,7 +6,7 @@
 
 [Unity on GitHub](https://github.com/ThrowTheSwitch/Unity), [docs](https://github.com/ThrowTheSwitch/Unity/tree/master/docs)
 
-[Ceedling docs on GitHub](https://github.com/ThrowTheSwitch/Ceedling/blob/master/docs/CeedlingPacket.md), [Eclipse, (semi)official](http://www.throwtheswitch.org/eclipse/), [Eclipse](http://www.electronvector.com/blog/add-unit-tests-to-your-current-project-with-ceedling), [YAML](https://en.wikipedia.org/wiki/YAML), [Dmitry Frank](https://dmitryfrank.com/articles/unit_testing_embedded_c_applications)
+[Ceedling docs on GitHub](https://github.com/ThrowTheSwitch/Ceedling/blob/master/docs/CeedlingPacket.md), [Eclipse (semi)official](http://www.throwtheswitch.org/eclipse/), [Eclipse](http://www.electronvector.com/blog/add-unit-tests-to-your-current-project-with-ceedling), [YAML](https://en.wikipedia.org/wiki/YAML), [Dmitry Frank](https://dmitryfrank.com/articles/unit_testing_embedded_c_applications)
 
 [CppUTest, manual](https://cpputest.github.io/manual.html)
 
